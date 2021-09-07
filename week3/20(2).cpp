@@ -8,6 +8,7 @@ int main() {
 	for (int y=1;y<=a;y++) {
 		for (int x=1;x<=a;x++) {
 				/*printf("(%d,%d) ",x,y);*/
+				//เป็นคู่อันดับ
 				if (x <= a && y == 1) {
 					printf("*");
 				} 
